@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Implementation(s) of the Cache-Aside pattern.</Description>
+    <Copyright>2017</Copyright>
+    <PackageLicenseUrl>https://github.com/pimbrouwers/Cinch.CacheAside/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/pimbrouwers/Cinch.CacheAside/</PackageProjectUrl>
+    <PackageIconUrl>http://www.pimbrouwers.com/cinch.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/pimbrouwers/Cinch.CacheAside/</RepositoryUrl>
+    <PackageTags>Cache MemoryCache IMemoryCache Cache-Aside</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
